@@ -1,0 +1,28 @@
+name: Saul Gray
+favicon: null
+layout_spectrum: 0.2828059229068458
+typography_spectrum: 0.5485389495734125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5175203250255436
+  lightness: 0.7427250230684876
+  saturation: 0.8953127493150532
+  rhythmicContrast: 0.196639537345618
+purpose: []
